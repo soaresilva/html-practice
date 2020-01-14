@@ -1,0 +1,22 @@
+body {
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', sans-serif ;
+    }
+     
+    h1 {
+    font-size: 22;
+    }
+     
+    h2 {
+    font-size: 18;
+    }
+
+    ul li {
+        list-style-type: square;
+    }
+
+
+code {
+    background-color: #F0F0F0;
+    font-style: normal;
+}
